@@ -1,0 +1,28 @@
+{
+  "name": "js-coding-practice",
+  "version": "1.0.0",
+  "description": "Package with examples to practice javascript language with data structures and testing being the focus area",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajasvu/js-coding-practice.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Jest",
+    "Algorithms",
+    "DataStructures"
+  ],
+  "author": "Kumar Raja Gattamaneni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajasvu/js-coding-practice/issues"
+  },
+  "homepage": "https://github.com/rajasvu/js-coding-practice#readme",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
